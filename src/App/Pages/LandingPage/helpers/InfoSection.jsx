@@ -9,14 +9,14 @@ function Info() {
         <div className="flex flex-col md:flex-row items-center md:justify-center md:gap-8">
           <div className="md:w-1/2">
             <img
-              src="https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFybWluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+              src="https://images.unsplash.com/photo-1589923188651-268a9765e432?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBvdWx0cnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
               alt="Image 1"
               className="w-full h-auto rounded-lg"
             />
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h3 className="text-4xl md:text-4xl font-semibold mb-4 text-left md:text-left">
-              Why Choose Good To Grow?
+              Why Choose Wingman?
             </h3>
             <p className="text-gray-800 text-lg md:text-1xl leading-relaxed text-left md:text-left">
               Choose Good To Grow for a thriving agricultural investment
