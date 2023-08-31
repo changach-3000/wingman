@@ -16,10 +16,10 @@ function Hero({ stats }) {
         <div className="flex justify-center">
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-6xl font-bold tracking-tight sm:text-4xl text-center">
-              Good To Grow exporting Platform
+              Wingman exporting Platform
             </h2>
             <p className="mt-6 text-center text-1xl leading-relaxed">
-              Unleash agricultural investments, nurture partnerships, and gain
+              Unleash poultry investments, nurture partnerships, and gain
               market insights. Elevate your investment game and cultivate
               success in agriculture.
             </p>

@@ -12,7 +12,7 @@ function LastCallToAction() {
           Don't miss out on this incredible opportunity
           </h2>
           <p className="text-center">
-          Join thousands of thriving businesses that have harnessed the power of "Tustock Growers Investment Platform" to achieve unparalleled success. Take your business to new heights with confidence and security!
+          Join thousands of thriving businesses that have harnessed the power of "Wingman Poultry Investment Platform" to achieve unparalleled success. Take your business to new heights with confidence and security!
           </p>
           <div className="mt-8 flex justify-center">
           <Link to="about-us">

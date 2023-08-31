@@ -17,10 +17,10 @@ function About() {
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h3 className="text-4xl md:text-4xl font-semibold mb-4 text-left md:text-left">
-              ABOUT GOOD TO GROW
+              ABOUT WINGMAN
             </h3>
             <p className="text-gray-800 text-lg md:text-1xl leading-relaxed text-left md:text-left">
-              Welcome to Good to Grow, where we empower agricultural success
+              Welcome to Wingman, where we empower agricultural success
               through innovation, collaboration, and sustainability. Our
               platform connects farmers, saccos, and exporting companies,
               unlocking Africa's agricultural potential.{" "}

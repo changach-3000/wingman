@@ -9,7 +9,7 @@ function FlexibleContent() {
             </h2>
             <p class="text-gray-600">
               Driving economic growth and uplifting farming communities across
-              Africa through agricultural investments. We foster dynamic
+              Africa through poultry investments. We foster dynamic
               partnerships, empower farmers, and offer transparent investment
               opportunities.{" "}
             </p>
@@ -27,7 +27,7 @@ function FlexibleContent() {
               Our Mission
             </h2>
             <p class="text-gray-600">
-              Revolutionizing agricultural investments, we connect farmers with
+              Revolutionizing poultry investments, we connect farmers with
               capital and investors to fuel Africa's agricultural growth. With
               cutting-edge technology and responsible practices, we elevate the
               industry and create lasting impact.{" "}

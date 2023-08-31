@@ -16,10 +16,10 @@ function Info() {
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h3 className="text-4xl md:text-4xl font-semibold mb-4 text-left md:text-left">
-              Why Choose Good To Grow?
+              Why Choose Wingman?
             </h3>
             <p className="text-gray-800 text-lg md:text-1xl leading-relaxed text-left md:text-left">
-              Choose Good To Grow for a thriving agricultural investment
+              Choose Wingman for a thriving poultry investment
               experience, offering diverse opportunities, market insights,
               secure transactions, farmer empowerment, and fruitful
               partnerships.{" "}
