@@ -1,8 +1,8 @@
 import React, { useState, useContext } from "react";
 import { Link } from "react-router-dom";
-import useAxios from "../../hooks/useAxios";
+import useAxios from "../hooks/useAxios";
 import { useNavigate } from "react-router-dom";
-import APPCONTEXT from "../../context/APP";
+import APPCONTEXT from "../context/APP";
 
 export default function SignIn() {
   const [formData, setFormData] = useState({ email: "", password: "" });
