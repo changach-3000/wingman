@@ -56,6 +56,8 @@ export default function SignUp() {
         navigate("/admin");
       } else if (role === "aggregator") {
         navigate("/aggregator");
+      }else if (role === "farmer") {
+          navigate("/farmer");
       } else if (role === "private_investor" || role === "company_investor") {
         navigate("/investor");
       } else {
