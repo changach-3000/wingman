@@ -15,7 +15,7 @@ function FlexibleContent() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1473594659356-a404044aa2c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmxhY2slMjBmYXJtZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+            src="https://images.unsplash.com/photo-1612170153139-6f881ff067e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             alt="Content Image"
             class="w-full h-48 object-cover rounded-lg lg:w-80"
           />
@@ -34,7 +34,7 @@ function FlexibleContent() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1627920769842-6887c6df05ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZhcm1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+            src="https://images.unsplash.com/photo-1556316918-880f9e893822?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             alt="Content Image"
             class="w-full h-48 object-cover rounded-lg lg:w-80"
           />

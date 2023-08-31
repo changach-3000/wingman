@@ -1,12 +1,10 @@
-
-
 function Footer() {
   return (
     <div className="text-white py-16 bg-[#005A31]">
       <div className="container mx-auto px-4 md:px-8 lg:px-16 xl:px-20 2xl:px-24">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <img src="/src/App/Pages/Assets/kuku.png" alt="logo" className="w-40 mb-2" />
+            <img src="../../Assets/kuku.png" alt="logo" className="w-40 mb-2" />
             <p>
               Sowing Seeds of Progress,
               <br />

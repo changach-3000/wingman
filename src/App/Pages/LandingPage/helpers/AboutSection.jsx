@@ -10,14 +10,14 @@ function About() {
         <div className="flex flex-col md:flex-row-reverse items-center md:justify-center md:gap-8">
           <div className="md:w-1/2">
             <img
-              src="https://images.unsplash.com/photo-1464226184884-fa280b87c399?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFncmljdWx0dXJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+              src="https://images.unsplash.com/photo-1588597989061-b60ad0eefdbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
               alt="Image 2"
               className="w-full h-auto rounded-lg "
             />
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h3 className="text-4xl md:text-4xl font-semibold mb-4 text-left md:text-left">
-              ABOUT GOOD TO GROW
+              ABOUT Wingman
             </h3>
             <p className="text-gray-800 text-lg md:text-1xl leading-relaxed text-left md:text-left">
               Welcome to Good to Grow, where we empower agricultural success
