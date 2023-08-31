@@ -6,31 +6,32 @@ import { TbReport } from "react-icons/tb";
 import { BiMap } from "react-icons/bi";
 import { BsChatLeftText } from "react-icons/bs";
 
-export const investorSidebarContent = [
+
+export const farmerSidebarContent = [
   {
     name: "Dashboard",
     icon: <RiHome2Line />,
-    to: "/investor",
+    to: "/farmer",
   },
   {
-    name: "Profile Management",
+    name: "Purchase Chicks",
     icon: <FiUsers />,
-    to: "/investor/profile-management",
+    to: "/purchase-chicks",
   },
   {
-    name: "Projects",
+    name: "Training",
     icon: <RxDashboard />,
-    to: "/investor/projects",
+    to: "/training",
   },
   {
-    name: "Finance",
+    name: "Vaccinations",
     icon: <PiMoneyLight />,
-    to: "/investor/investor-finance",
+    to: "/vaccinations",
   },
   {
-    name: "Chats",
-    icon: <BsChatLeftText />,
-    to: "/investor/chats",
+    name: "Selling",
+    icon: <TbReport />,
+    to: "/selling",
   },
 ];
 
@@ -41,74 +42,25 @@ export const adminSidebarContent = [
     to: "/admin",
   },
   {
-    name: "Users",
+    name: "Purchase Chicks",
     icon: <FiUsers />,
-    to: "/admin/users",
+    to: "/purchase-chicken",
   },
   {
-    name: "Projects",
+    name: "Training",
     icon: <RxDashboard />,
-    to: "/admin/projects",
+    to: "/train",
   },
   {
-    name: "Finance",
+    name: "Vaccinations",
     icon: <PiMoneyLight />,
-    to: "/admin/finance",
+    to: "/vaccines",
   },
   {
-    name: "Reports",
+    name: "Selling",
     icon: <TbReport />,
-    to: "/admin/reports",
+    to: "/sell",
   },
-  {
-    name: "Land Leasing",
-    icon: <BiMap />,
-    to: "/admin/land-leasing",
-  },
-  {
-    name: "Chats",
-    icon: <BsChatLeftText />,
-    to: "/admin/chats",
-  },
-];
-
-export const aggregatorSidebarContent = [
-  {
-    name: "Dashboard",
-    icon: <RiHome2Line />,
-    to: "/aggregator",
-  },
-
-  {
-    name: "Farmers",
-    icon: <FiUsers />,
-    to: "/aggregator/all-farmers",
-  },
-
-  {
-    name: "Projects",
-    icon: <RxDashboard />,
-    to: "/aggregator/projects",
-  },
-
-  {
-    name: "Finance",
-    icon: <PiMoneyLight />,
-    to: "/aggregator/finance-dashboard",
-  },
-
-  {
-    name: "Reports",
-    icon: <TbReport />,
-    to: "/aggregator/reports",
-  },
-
-  {
-    name: "Land Leasing",
-    icon: <BiMap />,
-    to: "/aggregator/land-leasing",
-  },
-  
 ];
 
 // config.js
