@@ -1,13 +1,48 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::-webkit-scrollbar {
+  width: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+::-webkit-scrollbar-track {
+  background-color: #e0e0e0;
 }
+  
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+
+::-webkit-scrollbar-track:hover {
+  background-color: #555;
+}
+.text-danger-emphasis {
+  color: #F36B23; 
+}
+.banner{
+  background: url('https://images.unsplash.com/photo-1620200423727-8127f75d7f53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  overflow:hidden;
+  position: relative;
+}
+
+.banner .waves{
+  position: absolute;
+  width: 100%;
+  bottom:0;
+  left:0;
+  
+}
+.MuiStepIcon-rootActive {
+  color: #F36B23;
+  font-weight: bold;
+}
+
+.MuiStepIcon-root {
+  color: #FFA500;
+}
+
