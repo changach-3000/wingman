@@ -2,8 +2,7 @@ import { useContext } from "react";
 import axios from "axios";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-
-import APPCONTEXT from "./../context/APP";
+import APPCONTEXT from "../context/APP";
 import { API_ROOT } from "./../Config/config";
 
 const baseUrl = API_ROOT;

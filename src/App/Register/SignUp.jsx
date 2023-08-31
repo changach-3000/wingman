@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 import { Link } from "react-router-dom";
-import useAxios from "../../hooks/useAxios";
-import APPCONTEXT from "../../context/APP";
+import useAxios from "../hooks/useAxios";
+import APPCONTEXT from "../context/APP";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 
